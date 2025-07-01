@@ -11,6 +11,7 @@ Our Team Logo
 <img src = "Perfect Paradox 8400 Outline.png">
 <img src = "Perfect Paradox 8400 Banner.png">
 <img src = "Perfect Paradox 8400 Banner No Lightning.png">
+<img src = "Perfect Paradox 8400 Logo With Text And Lightning.png">
 <img src = "Perfect Paradox 8400 Logo With Text.png">
 <img src = "Perfect Paradox 8400 Text Purple.png">
 <img src = "Perfect Paradox 8400 Text.png">
@@ -22,3 +23,6 @@ Our Team Logo
 <img src = "Perfect Paradox 8400 Original No Text In Box.png">
 <img src = "Perfect Paradox 8400 Old.png">
 <img src = "Perfect Paradox 8400 Old No Text.png">
+
+### Font
+The font used in the logo is [Oswald](https://fonts.google.com/specimen/Oswald).
