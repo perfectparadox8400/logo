@@ -7,7 +7,7 @@
    viewBox="0 0 317.5 317.5"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="Perfect Paradox 8400.svg"
    xml:space="preserve"
    inkscape:export-filename="Perfect Paradox 8400.png"
@@ -28,12 +28,12 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="0.49197391"
-     inkscape:cx="589.46216"
-     inkscape:cy="639.26155"
+     inkscape:cx="588.44584"
+     inkscape:cy="640.27786"
      inkscape:window-width="1920"
      inkscape:window-height="987"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showgrid="false"><inkscape:grid
@@ -101,7 +101,7 @@
        width="1303.937"
        height="283.46457"
        id="rect40" /></defs><g
-     inkscape:label="Layer 1"
+     inkscape:label="Logo"
      inkscape:groupmode="layer"
      id="layer1"><image
        width="264.58334"
@@ -112,7 +112,7 @@
        x="26.458328"
        y="26.458328"
        inkscape:label="Background 2"
-       style="display:inline"
+       style="display:none"
        clip-path="url(#clipPath20)" /><path
        style="fill:#d26efd;fill-opacity:1;stroke-width:1.149"
        d="m 154.45833,108.25 28,5.74776 v 77.7841 l -17.98403,-4.19814 -0.016,-56.33372 -10,-2 z"
